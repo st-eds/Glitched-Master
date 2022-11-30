@@ -1,0 +1,1685 @@
+fileFormatVersion: 2
+guid: a2e615c715a100449ae69d21256e58bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fantastic_flower
+  - first:
+      213: 21300002
+    second: Fantastic_Grass01
+  - first:
+      213: 21300004
+    second: Fantastic_HayPole
+  - first:
+      213: 21300006
+    second: Fantastic_BlueStone01
+  - first:
+      213: 21300008
+    second: Fantastic_BlueStone02
+  - first:
+      213: 21300010
+    second: Fantastic_Tree-Spruce
+  - first:
+      213: 21300012
+    second: Fantastic_Tree-Pine
+  - first:
+      213: 21300014
+    second: Fantastic_WoodenCart
+  - first:
+      213: 21300016
+    second: Fantastic_BackgroundTree06
+  - first:
+      213: 21300018
+    second: Fantastic_GoldenChest
+  - first:
+      213: 21300020
+    second: Fantastic_WoodenCrate
+  - first:
+      213: 21300022
+    second: Fantastic_Bridge
+  - first:
+      213: 21300024
+    second: Fantastic_SnowBall-NoBorders
+  - first:
+      213: 21300026
+    second: Fantastic_BackgroundTree05
+  - first:
+      213: 21300028
+    second: Fantastic_OldWell
+  - first:
+      213: 21300030
+    second: FantasticTileSet_Items_15
+  - first:
+      213: 21300032
+    second: Fantastic_SnowBall01
+  - first:
+      213: 21300034
+    second: Fantastic_SnowBall03
+  - first:
+      213: 21300036
+    second: Fantastic_BackgroundTree01
+  - first:
+      213: 21300038
+    second: Fantastic_BackgroundTree04
+  - first:
+      213: 21300040
+    second: Fantastic_Tree-Round
+  - first:
+      213: 21300042
+    second: Fantastic_Apple
+  - first:
+      213: 21300044
+    second: Fantastic_BackgroundTree02
+  - first:
+      213: 21300046
+    second: Fantastic_WoodenBarrel
+  - first:
+      213: 21300048
+    second: Fantastic_BackgroundTree03
+  - first:
+      213: 21300050
+    second: Fantastic_Tree-Snowy
+  - first:
+      213: 21300052
+    second: Fantastic_Target
+  - first:
+      213: 21300054
+    second: Fantastic_Wooden-Stoll
+  - first:
+      213: 21300056
+    second: Cactus-Planted-round
+  - first:
+      213: 21300058
+    second: Fantastic_BridgeWoodenPilars
+  - first:
+      213: 21300060
+    second: Fantastic_Tree-Spruce-Snowy
+  - first:
+      213: 21300062
+    second: Fantastic_Tree-Leafs-Only
+  - first:
+      213: 21300064
+    second: Fantastic_Cactus01
+  - first:
+      213: 21300066
+    second: Fantastic_Cactus-Planted
+  - first:
+      213: 21300068
+    second: Fantastic_Cactus02
+  - first:
+      213: 21300070
+    second: Fantastic_Cactus03
+  - first:
+      213: 21300072
+    second: Tree-Stump-Snowy
+  - first:
+      213: 21300074
+    second: Fantastic_Cactus-tiny
+  - first:
+      213: 21300076
+    second: Tree-Stump-Snowy02
+  - first:
+      213: 21300078
+    second: Fantastic_Stone-Gray01
+  - first:
+      213: 21300080
+    second: Fantastic_Stone-Desert
+  - first:
+      213: 21300082
+    second: Fantastic_Well-Snowy-Roof
+  - first:
+      213: 21300084
+    second: Fantastic_Stone-Gray03
+  - first:
+      213: 21300086
+    second: Fantastic_Desert-Stone02
+  - first:
+      213: 21300088
+    second: Fantastic_Bush
+  - first:
+      213: 21300090
+    second: Fantastic_Stone-Gray04
+  - first:
+      213: 21300092
+    second: Fantastic_Barrel-Wooden-Small
+  - first:
+      213: 21300094
+    second: Fantastic_GreenPlants
+  - first:
+      213: 21300096
+    second: FantasticTileSet_Items_48
+  - first:
+      213: 21300098
+    second: Fantastic_Grass02
+  - first:
+      213: 21300100
+    second: Fantastic_Flower02
+  - first:
+      213: 21300102
+    second: Fantastic_Grass03
+  - first:
+      213: 21300104
+    second: Fantastic_BridgePilar
+  - first:
+      213: 21300106
+    second: Fantastic_AppleSmall
+  - first:
+      213: 21300108
+    second: Fantastic_WoodenBridge
+  - first:
+      213: 21300110
+    second: Fantastic_Stone-Gray02
+  - first:
+      213: 21300112
+    second: Fantastic_Stone-Gray05
+  - first:
+      213: 21300114
+    second: Fantastic_Grass-Snowy
+  - first:
+      213: 21300116
+    second: Fantastic_Stone-Purple
+  - first:
+      213: 21300118
+    second: Fantastic_Stone-Purple02
+  - first:
+      213: 21300120
+    second: Fantastic_SnowBall02
+  - first:
+      213: 21300122
+    second: Fantastic_BackgroundTree07
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantastic_flower
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36cafed7a8006e4783f5fc69e021c9a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Grass01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af6435f9b61d024393dfc02abf75e23
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_HayPole
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 18
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba6df5bacaf8b2429776afc4e5a3188
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BlueStone01
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 115
+        width: 11
+        height: 4
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63de1875d7e237c488d668ac9840065a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BlueStone02
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 115
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b689a3d1bf8a4a4eb7f7adc46f72929
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Tree-Spruce
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 27
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4814815, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea44d53e9c6874d4fbac774932ac4c07
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Tree-Pine
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 40
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697497c16a5ac5d43afbbb704ff41546
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_WoodenCart
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 110
+        width: 59
+        height: 18
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e5e2f596607c4aa0721203b0a4d3c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BackgroundTree06
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 91
+        width: 10
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5602e1316e9022040b726cf168446323
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_GoldenChest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4530cd92c004e354992215a34dc57a59
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_WoodenCrate
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d926bafbbc03e4b84724c710a9805d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Bridge
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 108
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eccbac7207d1a44a6a220dc62f952a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_SnowBall-NoBorders
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 111
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104397eebbb5f3749ba1fa5a57b9bb6e
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BackgroundTree05
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 91
+        width: 10
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6050d161550b16b4889a4e7be986361f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_OldWell
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 56
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ce16dc9103c5647a0843b5437dff68
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticTileSet_Items_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66928a6ad3b3b6a4f861a113e49ab1c3
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_SnowBall01
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 105
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb828d1652cea143b847259d2e24212
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_SnowBall03
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c8ccd649304a4e8f09c6158b2c6b3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BackgroundTree01
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 81
+        width: 9
+        height: 27
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259fa433ba609d244b5b6bf54d5f8706
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BackgroundTree04
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 10
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bc056610b72bb4fb4562023027b2e8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Tree-Round
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ac637c2d3e72468e1b86269322dbd
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Apple
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa953d2fcf40a54f966937b5303098d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BackgroundTree02
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 91
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.4, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c93b948d157648beec9665b5a680e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_WoodenBarrel
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95f82639f0b3147856c26820d6b2b8
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BackgroundTree03
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 81
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e7ffac9c2d32458b354efbb60437e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Tree-Snowy
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 59
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4915254, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2531b6f4a5304f24596483acfa78e6fe
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Target
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 56
+        width: 8
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273f774ec0fe65409a382a022678c9a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Wooden-Stoll
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11841a6971a450e48a349b54f0f3f2b9
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus-Planted-round
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 67
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cef4ac5bdf83e41b3b336711c05883
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BridgeWoodenPilars
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 61
+        width: 16
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64608d224daf9439ccfbca6031be76
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Tree-Spruce-Snowy
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 27
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a0231a2eec3ad4f8f3bd1e035e4dca
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Tree-Leafs-Only
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b19251e15f3242925c5a961456e59
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cactus01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 13
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b1022e41617c346b2f622aae507ab8
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cactus-Planted
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 43
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d2342dee954f543a170d316c1d6997
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cactus02
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c868eb80fe13154a924c525fdb7bf55
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cactus03
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 23
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead576201329e6419f3e2484bc1196b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree-Stump-Snowy
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 20
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63e37427511224687e71e0e4a8fe0b
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cactus-tiny
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 33
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512354456a95bc46b3ca628033e7342
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree-Stump-Snowy02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 18
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc963c814fea9d54e9345f5f449b4acb
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Gray01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 6
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee816e217afa624d95e5a57eaae8491
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Desert
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 11
+        height: 4
+      alignment: 9
+      pivot: {x: 0.45454547, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e34722e89c4d148b182b3c340492b4
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Well-Snowy-Roof
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 30
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3c337828637745b6e77ad09807ef4
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Gray03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3aa9afbabf914dae94cbba1449df9
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Desert-Stone02
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54f19b3250fb94897eae10d4c5ef58
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Bush
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 23
+        height: 16
+      alignment: 9
+      pivot: {x: 0.47826087, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0599cd8e6ffe247805491f60ffd217
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Gray04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 5
+        height: 3
+      alignment: 9
+      pivot: {x: 0.4, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab825f37866e5f478c13ebdad4642bb
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Barrel-Wooden-Small
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f7a68073c6d3b4593fc5f020455876
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_GreenPlants
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 11
+        height: 5
+      alignment: 9
+      pivot: {x: 0.45454547, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd1dfbbd09cba4ebecbb360d180c13
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasticTileSet_Items_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 28
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca5cc66ae54da48824bd934aeaa718
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Grass02
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 120
+        width: 16
+        height: 3
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26a329b01263f4488470c7fbc1be6b
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Flower02
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 3
+        height: 6
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee5131a77bbfe6478e9a0c7992cee7f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Grass03
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 16
+        height: 3
+      alignment: 9
+      pivot: {x: -0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a3f79c6f4b814c9d4f5d81b12d9d7
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BridgePilar
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 113
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b161d3572a450439ba12a853c31bd2
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_AppleSmall
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ad733097a80f46a02a6816acdc026
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_WoodenBridge
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 57
+        width: 16
+        height: 3
+      alignment: 9
+      pivot: {x: 0, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6bf0ad908f69d4e933d3176b1819f5
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Gray02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37877d0c27760af43b40cf827d0c5d1c
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Gray05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 11
+        height: 5
+      alignment: 9
+      pivot: {x: 0.45454547, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ca85f997b5294faab12cc010cd3f7
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Grass-Snowy
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 105
+        width: 11
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2359f14305ce84b8c76887ad37a680
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Purple
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 4
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfac11fbbea1c146b28bc7436775b78
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Stone-Purple02
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 111
+        width: 8
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b8fd71cdbd974c9958b6693f99223
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_SnowBall02
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 105
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf4652698f38ac4a9ae3f1b83c3a0e8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_BackgroundTree07
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 116
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980dd10b81d91534892c48bca1fd5480
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4873d429b5a17964aae362fb40a69913
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fantastic_GoldenChest: 21300018
+      Fantastic_SnowBall02: 21300120
+      FantasticTileSet_Items_15: 21300030
+      Fantastic_BackgroundTree02: 21300044
+      Fantastic_Tree-Spruce-Snowy: 21300060
+      Fantastic_Barrel-Wooden-Small: 21300092
+      FantasticTileSet_Items_48: 21300096
+      Fantastic_Bridge: 21300022
+      Fantastic_Stone-Gray04: 21300090
+      Fantastic_flower: 21300000
+      Fantastic_Tree-Spruce: 21300010
+      Tree-Stump-Snowy02: 21300076
+      Fantastic_Desert-Stone02: 21300086
+      Fantastic_Tree-Pine: 21300012
+      Tree-Stump-Snowy: 21300072
+      Fantastic_AppleSmall: 21300106
+      Fantastic_Target: 21300052
+      Fantastic_BackgroundTree04: 21300038
+      Fantastic_BackgroundTree01: 21300036
+      Fantastic_BackgroundTree03: 21300048
+      Fantastic_Cactus01: 21300064
+      Fantastic_Stone-Gray01: 21300078
+      Fantastic_Stone-Purple02: 21300118
+      Fantastic_Stone-Gray03: 21300084
+      Fantastic_SnowBall03: 21300034
+      Fantastic_HayPole: 21300004
+      Fantastic_Well-Snowy-Roof: 21300082
+      Fantastic_Wooden-Stoll: 21300054
+      Fantastic_BackgroundTree06: 21300016
+      Fantastic_SnowBall01: 21300032
+      Fantastic_Cactus-tiny: 21300074
+      Fantastic_Stone-Gray02: 21300110
+      Fantastic_BridgePilar: 21300104
+      Fantastic_Cactus02: 21300068
+      Fantastic_Tree-Snowy: 21300050
+      Fantastic_WoodenBarrel: 21300046
+      Fantastic_Stone-Desert: 21300080
+      Cactus-Planted-round: 21300056
+      Fantastic_Grass01: 21300002
+      Fantastic_SnowBall-NoBorders: 21300024
+      Fantastic_BackgroundTree05: 21300026
+      Fantastic_OldWell: 21300028
+      Fantastic_Cactus03: 21300070
+      Fantastic_Cactus-Planted: 21300066
+      Fantastic_GreenPlants: 21300094
+      Fantastic_Bush: 21300088
+      Fantastic_Tree-Leafs-Only: 21300062
+      Fantastic_BackgroundTree07: 21300122
+      Fantastic_BlueStone01: 21300006
+      Fantastic_WoodenCrate: 21300020
+      Fantastic_Apple: 21300042
+      Fantastic_Flower02: 21300100
+      Fantastic_Grass-Snowy: 21300114
+      Fantastic_BlueStone02: 21300008
+      Fantastic_Stone-Purple: 21300116
+      Fantastic_WoodenBridge: 21300108
+      Fantastic_BridgeWoodenPilars: 21300058
+      Fantastic_Stone-Gray05: 21300112
+      Fantastic_Grass02: 21300098
+      Fantastic_WoodenCart: 21300014
+      Fantastic_Grass03: 21300102
+      Fantastic_Tree-Round: 21300040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

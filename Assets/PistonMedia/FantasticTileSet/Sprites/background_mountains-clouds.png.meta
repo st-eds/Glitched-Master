@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: 77b34ef72523d9348ac7041105fcc5cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fantastic_background_mountain01
+  - first:
+      213: 21300002
+    second: Fantastic_Cloud01
+  - first:
+      213: 21300004
+    second: Fantastic_Cloud02
+  - first:
+      213: 21300006
+    second: Fantastic_cloud-tiny01
+  - first:
+      213: 21300008
+    second: Fantastic_cloud-tiny02
+  - first:
+      213: 21300010
+    second: Fantastic_cloud-tiny04
+  - first:
+      213: 21300012
+    second: Fantastic_Cloud03
+  - first:
+      213: 21300014
+    second: Fantastic_cloud-small
+  - first:
+      213: 21300016
+    second: Fantastic_cloud-lines03
+  - first:
+      213: 21300018
+    second: Fantastic_background_mountain02
+  - first:
+      213: 21300020
+    second: Fantastic_cloud_white-modulate1
+  - first:
+      213: 21300022
+    second: background_mountains-clouds_12
+  - first:
+      213: 21300024
+    second: Fantastic_cloud_white-modulate2
+  - first:
+      213: 21300026
+    second: background_mountains-clouds_14
+  - first:
+      213: 21300028
+    second: background_mountains-clouds_15
+  - first:
+      213: 21300030
+    second: Fantastic_cloud-lines02
+  - first:
+      213: 21300032
+    second: Fantastic_cloud-lines01
+  - first:
+      213: 21300034
+    second: Fantastic_cloud-tiny03
+  - first:
+      213: 21300036
+    second: background-mountain-color-only
+  - first:
+      213: 21300038
+    second: background_mountains-clouds_0
+  - first:
+      213: 21300040
+    second: Fantastic_Mountain-Color-Only
+  - first:
+      213: 21300042
+    second: Fantastic_TreeLine-03-Color-Only
+  - first:
+      213: 21300044
+    second: Fantastic_TreeLine-ColorOnly02
+  - first:
+      213: 21300046
+    second: Fantastic_ColorOnlyTreeLine01
+  - first:
+      213: 21300048
+    second: fantastic_desert-background_01-color-only
+  - first:
+      213: 21300050
+    second: fantastic_desert-background_02-color-only
+  - first:
+      213: 21300052
+    second: fantastic_desert-background_03-color-only
+  - first:
+      213: 21300054
+    second: fantastic_background-forest-snowy_02-color-only
+  - first:
+      213: 21300056
+    second: fantastic_background-forest-snowy_01-color-only
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantastic_background_mountain01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 277
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49819493, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c532477b41edbc4a90036a2b8d0a57c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cloud01
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 217
+        width: 208
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5048077, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3c3573e67dcea41a955037040a2698
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cloud02
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 172
+        width: 123
+        height: 44
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9412a20ebbb35aa42b66f81eedb096d2
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-tiny01
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 210
+        width: 16
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05851fec8cf515447b75b9ea1cdbb955
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-tiny02
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 205
+        width: 12
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f97c366fc389844be8c574685e5333
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-tiny04
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 195
+        width: 4
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dcb5bc08bb0f8488c91c6bca19a970
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Cloud03
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 119
+        height: 26
+      alignment: 9
+      pivot: {x: 0.49579835, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd33ba9c4818248b8ed28dca7d1fec
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-small
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 166
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2ff57e6673bc7409ba537be62da601
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-lines03
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 142
+        width: 28
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc1de5ba770b914caa4ecf04aa1c909
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_background_mountain02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 271
+        height: 128
+      alignment: 9
+      pivot: {x: 0.498155, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7a776e99db85e4594dae94ef4490b4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud_white-modulate1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 113
+        width: 162
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d997333b4a70c4db81ef1879941a29
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud_white-modulate2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 74
+        width: 202
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4950495, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b657b641f9f9e37478092022fba7edcd
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-lines02
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 156
+        width: 28
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3d2c5c62b3a44c9a16d77d6f35f99
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-lines01
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 181
+        width: 29
+        height: 5
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6e5b4b7f82864389960cb8898093a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_cloud-tiny03
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 198
+        width: 17
+        height: 6
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd08339c7e292ac4a9984cb9e2157737
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-mountain-color-only
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d10022f08c6c41b086c4892252ff9
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_mountains-clouds_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 224
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f4e029c05eb44eb6994cb74ca6997
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_Mountain-Color-Only
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc469212b9c3694ebbe6282e58961b8
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_TreeLine-03-Color-Only
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c773f764015f644a05974517b0c989
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_TreeLine-ColorOnly02
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94925bed2b1d77d46b106f88a566da0e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantastic_ColorOnlyTreeLine01
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b5e9c500fe55647953926cfa77a7ee
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantastic_desert-background_01-color-only
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148b13ed279a58946b820b572db7497a
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantastic_desert-background_02-color-only
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5caec66548094c86e161ac1db60ab
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantastic_desert-background_03-color-only
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 22
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df09ff13155cc489e549757bb6cce6
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantastic_background-forest-snowy_02-color-only
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48b93ff00b62404f86aebe12aff3c0b
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantastic_background-forest-snowy_01-color-only
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555fe9571e552db4b95c147952a9c33d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 049e10ed682893c40bcf378c50a8898b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fantastic_Mountain-Color-Only: 21300040
+      Fantastic_cloud-tiny01: 21300006
+      Fantastic_cloud-tiny02: 21300008
+      Fantastic_cloud-small: 21300014
+      Fantastic_Cloud01: 21300002
+      fantastic_desert-background_01-color-only: 21300048
+      fantastic_background-forest-snowy_02-color-only: 21300054
+      Fantastic_cloud-tiny04: 21300010
+      fantastic_background-forest-snowy_01-color-only: 21300056
+      Fantastic_Cloud02: 21300004
+      Fantastic_cloud-lines01: 21300032
+      background_mountains-clouds_0: 21300038
+      background-mountain-color-only: 21300036
+      Fantastic_ColorOnlyTreeLine01: 21300046
+      Fantastic_Cloud03: 21300012
+      Fantastic_cloud_white-modulate1: 21300020
+      fantastic_desert-background_03-color-only: 21300052
+      Fantastic_background_mountain01: 21300000
+      Fantastic_cloud-tiny03: 21300034
+      fantastic_desert-background_02-color-only: 21300050
+      Fantastic_cloud_white-modulate2: 21300024
+      Fantastic_background_mountain02: 21300018
+      Fantastic_TreeLine-03-Color-Only: 21300042
+      Fantastic_cloud-lines03: 21300016
+      Fantastic_cloud-lines02: 21300030
+      Fantastic_TreeLine-ColorOnly02: 21300044
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
