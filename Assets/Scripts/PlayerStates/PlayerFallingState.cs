@@ -6,7 +6,7 @@ public class PlayerFallingState : PlayerBaseState
 {
     private readonly int FallHash = Animator.StringToHash("Fall");
 
-    private Vector3 momentum;
+    private Vector2 momentum;
 
     private const float CrossFadeDuration = 0.1f;
 
@@ -29,7 +29,7 @@ public class PlayerFallingState : PlayerBaseState
            // ReturnToLocomotion();
         }
 
-       // FaceTarget();
+      
     }
 
     public override void Exit()
