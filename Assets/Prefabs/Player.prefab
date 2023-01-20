@@ -20,7 +20,7 @@ GameObject:
   - component: {fileID: 25790261105962047}
   - component: {fileID: 25790261105962046}
   - component: {fileID: 25790261105962048}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -36,8 +36,8 @@ Transform:
   m_GameObject: {fileID: 25790262815975300}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -171,6 +171,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67780b8bb5b1e984ca84846512242cc3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  runSpeed: 6
+  jumpSpeed: 5
 --- !u!114 &597936595662486222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -254,12 +256,12 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 1.25
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 4
 --- !u!66 &25790261105962046
 CompositeCollider2D:
   m_ObjectHideFlags: 0
