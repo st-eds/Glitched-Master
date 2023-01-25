@@ -30,6 +30,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Run();
         FlipSprite();
+        if (!myCapsuleCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) { myAnimator.SetBool("isJumping", false);}
     }
 
     void OnMove(InputValue value)
@@ -39,23 +40,14 @@ public class PlayerMovement : MonoBehaviour
 
     void OnJump(InputValue value)
     {
-        if(!myCapsuleCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
-        {
-           
-             myAnimator.SetBool("isJumping", true);
-            return;
-            }
-
-        
+         if (!myCapsuleCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) { return;}
         if(value.isPressed)
         {
+            myAnimator.SetBool("isJumping", true);
             myRigidbody.velocity += new Vector2 (0f, jumpSpeed);
-
-            
 
         }
     }
-
     void Run()
     {
         Vector2 playerVelocity = new Vector2 (moveInput.x * runSpeed, myRigidbody.velocity.y);
