@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Climbing
   - Water
   - UI
   - Ground
@@ -41,6 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3204582091
+    locked: 0
   - name: Player
     uniqueID: 373407583
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 130220631
     locked: 0
