@@ -6,16 +6,17 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] float runSpeed = 10f;
-
     [SerializeField] float climbSpeed = 2f;
     [SerializeField] float jumpSpeed = 5f;
+    [SerializeField] GameObject bullet;
+    [SerializeField] Transform gun;
     
     Vector2 moveInput;
     Rigidbody2D myRigidbody;
     Animator myAnimator;
     CapsuleCollider2D myBodyCollider;
     BoxCollider2D myFeetCollider;
-
+    bool isAlive = true;
     float gravityScaleStart;
 
     
@@ -33,19 +34,35 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        if(!isAlive){return;}
         Run();
         FlipSprite();
         if (!myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) { myAnimator.SetBool("isJumping", false);}
         ClimbLadder();
+        Die();
+    }
+
+    void OnFire(InputValue value)
+    {
+        if(!isAlive) {return;}
+       
+        Instantiate(bullet,gun.position,transform.rotation);
+        Debug.Log("firing");
+        return;
+        
+        
+
     }
 
     void OnMove(InputValue value)
     {
+        if(!isAlive) {return;}
         moveInput = value.Get<Vector2>();
     }
 
     void OnJump(InputValue value)
     {
+        if(!isAlive) {return;}
          if (!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) { return;}
         if(value.isPressed)
         {
@@ -95,6 +112,10 @@ public class PlayerMovement : MonoBehaviour
              bool playerHasVerticalSpeed = Mathf.Abs(myRigidbody.velocity.y) > Mathf.Epsilon;
 
             myAnimator.SetBool("isClimbing", playerHasVerticalSpeed);
+
+        }
+        void Die()
+        {
 
         }
     }
