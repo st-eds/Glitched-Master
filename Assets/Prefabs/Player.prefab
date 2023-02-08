@@ -10,8 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 25790262815975298}
   - component: {fileID: 25790262815975301}
-  - component: {fileID: 2708064492004420184}
-  - component: {fileID: 5764901101041570089}
   - component: {fileID: 6811865790188173603}
   - component: {fileID: 9015203785038088555}
   - component: {fileID: 6751949811225073379}
@@ -96,35 +94,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2708064492004420184
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 25790262815975300}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 724ec6459433fd14e837dd583583fa76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  <InputReader>k__BackingField: {fileID: 5764901101041570089}
-  <Controller>k__BackingField: {fileID: 0}
-  <Animator>k__BackingField: {fileID: 6811865790188173603}
-  <JumpForce>k__BackingField: 2
-  <FreeLookMovementSpeed>k__BackingField: 2
---- !u!114 &5764901101041570089
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 25790262815975300}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fce5fff08a185bf449323725cbb81378, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &6811865790188173603
 Animator:
   serializedVersion: 4
@@ -174,9 +143,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runSpeed: 6
-  jumpSpeed: 5
   climbSpeed: 5
-  deathKick: {x: 10, y: 10}
+  jumpSpeed: 5
   bullet: {fileID: 1726378626283440717, guid: 83cec7a29ddab1e4a963287a2112482b, type: 3}
   gun: {fileID: 4012933687737635634}
 --- !u!114 &597936595662486222
