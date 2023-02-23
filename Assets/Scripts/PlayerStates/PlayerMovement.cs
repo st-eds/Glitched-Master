@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] Transform gun;
     
     Vector2 moveInput;
+     public SpriteRenderer sprite;
     Rigidbody2D myRigidbody;
     Animator myAnimator;
     CapsuleCollider2D myBodyCollider;
@@ -37,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         if(!isAlive){return;}
         Run();
         FlipSprite();
-        if (!myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) { myAnimator.SetBool("isJumping", false);}
+        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Ground","Climbing"))) { myAnimator.SetBool("isJumping", false);}
         ClimbLadder();
         Die();
     }
@@ -47,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
         if(!isAlive) {return;}
        
         Instantiate(bullet,gun.position,transform.rotation);
-        Debug.Log("firing");
+       
         return;
         
         
@@ -68,8 +69,10 @@ public class PlayerMovement : MonoBehaviour
         {
             myAnimator.SetBool("isJumping", true);
             myRigidbody.velocity += new Vector2 (0f, jumpSpeed);
+            Debug.Log("jump");
 
         }
+        
     }
     void Run()
     {
@@ -80,7 +83,7 @@ public class PlayerMovement : MonoBehaviour
         myAnimator.SetBool("isRunning", playerHasHorizontalSpeed);
     }
 
-    void FlipSprite()
+    public void FlipSprite()
     {
         bool playerHasHorizontalSpeed = Mathf.Abs(myRigidbody.velocity.x) > Mathf.Epsilon;
 

@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: ce0c0816cc7832b4cb3bb4fa9ddbb88b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 695
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607a30a350ebfa941a5e35d9a10eedb2
+      internalID: 13563916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 695
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b767f36339229b4abb6cd61bbe4bcca
+      internalID: -1176610899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player_Spritesheet_65: 157971408
+      Player_Spritesheet_27: 2089737290
+      Player_Spritesheet_13: -1638235355
+      Player_Spritesheet_2: -1074913204
+      Player_Spritesheet_46: -1317249800
+      Player_Spritesheet_16: 290442136
+      Player_Spritesheet_31: 113534605
+      Player_Spritesheet_96: 642467476
+      Climbing_1: -45884043
+      Player_Spritesheet_55: 308753557
+      Player_Spritesheet_79: -1558412553
+      Player_Spritesheet_59: -1572864127
+      Player_Spritesheet_3: 1543063936
+      Player_Spritesheet_67: 912935325
+      Player_Spritesheet_34: 1883742542
+      Player_Spritesheet_80: 15980399
+      Player_Spritesheet_85: -1151543690
+      Player_Spritesheet_4: -1582503994
+      Player_Spritesheet_30: 1945935081
+      Player_Spritesheet_70: -376571299
+      Player_Spritesheet_94: -1303473336
+      Player_Spritesheet_52: -1176610899
+      Player_Spritesheet_11: 620022309
+      Player_Spritesheet_15: 23680150
+      Player_Spritesheet_14: 1125989234
+      Player_Spritesheet_73: 629266217
+      Player_Spritesheet_72: 990343965
+      Player_Spritesheet_24: 288757336
+      Player_Spritesheet_89: 1689420087
+      Player_Spritesheet_66: 1096689166
+      Player_Spritesheet_83: 626615522
+      Player_Spritesheet_95: -293113631
+      Player_Spritesheet_36: -998793400
+      Player_Spritesheet_22: 789551537
+      Player_Spritesheet_74: -1770830054
+      Player_Spritesheet_43: 806827707
+      Player_Spritesheet_49: -635580852
+      Player_Spritesheet_84: -1847301670
+      Player_Spritesheet_38: 1652354760
+      Player_Spritesheet_75: -1821715854
+      Player_Spritesheet_1: 1979291374
+      Player_Spritesheet_42: 320854064
+      Player_Spritesheet_47: -203723782
+      Player_Spritesheet_69: -1101074954
+      Player_Spritesheet_17: 588592230
+      Player_Spritesheet_10: 266881646
+      Player_Spritesheet_57: -393794295
+      Player_Spritesheet_8: -1471427350
+      Player_Spritesheet_78: -769410192
+      Player_Spritesheet_37: -2068174183
+      Player_Spritesheet_20: 1735661116
+      Player_Spritesheet_87: -91829379
+      Player_Spritesheet_48: -2047154309
+      Player_Spritesheet_29: -730489338
+      Player_Spritesheet_25: -712672869
+      Player_Spritesheet_6: -517126446
+      Player_Spritesheet_58: -935355269
+      Player_Spritesheet_68: 1255325522
+      Player_Spritesheet_90: 754311062
+      Player_Spritesheet_88: -1084641288
+      Player_Spritesheet_41: -1044516713
+      Player_Spritesheet_39: -1184796575
+      Climbing_0: 541370581
+      Player_Spritesheet_21: 966191952
+      Player_Spritesheet_40: -1648482141
+      Player_Spritesheet_23: 1133753406
+      Player_Spritesheet_53: -2005494989
+      Player_Spritesheet_32: -1710342289
+      Player_Spritesheet_86: -1324448364
+      Player_Spritesheet_50: 1927900801
+      Player_Spritesheet_76: 679140055
+      Player_Spritesheet_82: -72155428
+      Player_Spritesheet_18: -1787141435
+      Player_Spritesheet_33: -1598394310
+      Player_Spritesheet_35: -1650319222
+      Player_Spritesheet_9: 184190225
+      Player_Spritesheet_54: -807899696
+      Player_Spritesheet_26: 1263765295
+      Player_Spritesheet_91: 65962069
+      Player_Spritesheet_93: -681487175
+      Player_Spritesheet_5: 1400319436
+      Player_Spritesheet_60: -2108462443
+      Player_Spritesheet_19: 575932949
+      Player_Spritesheet_92: 1003744577
+      Player_Spritesheet_28: 141008848
+      Player_Spritesheet_61: -358554895
+      Player_Spritesheet_12: 2031822660
+      Player_Spritesheet_45: 1009434192
+      Player_Spritesheet_71: -517310008
+      Player_Spritesheet_51: 13563916
+      Player_Spritesheet_81: -1730017562
+      Player_Spritesheet_62: 546560483
+      Player_Spritesheet_7: 976268521
+      Player_Spritesheet_0: -27881578
+      Player_Spritesheet_63: -684686512
+      Player_Spritesheet_44: 984557986
+      Player_Spritesheet_64: 332990193
+      Player_Spritesheet_77: 1479573763
+      Player_Spritesheet_56: 545503583
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
